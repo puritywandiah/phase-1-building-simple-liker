@@ -3,12 +3,14 @@ body {
   background-color: rgb(29,161,242);
 }
 
-.like-glyph {
+
+ .like-glyph {
   cursor: pointer;
+  
 }
 
 body h1 {
-  color: #FFF;
+  color: rgb(246, 246, 246);
 }
 
 body > header {
@@ -28,7 +30,7 @@ article.media-post > p {
 
 article.media-post > header {
   padding: 1em 2em;
-  background-color: rgb(225,232,237);
+  background-color: rgb(241, 241, 241);
 }
 
 article.media-post > footer {
@@ -41,8 +43,8 @@ article.media-post > footer ul {
 
 #modal {
   border-radius: 10px;
-  background-color: maroon;
-  color: white;
+  background-color: rgb(29, 161, 242);
+  color: rgb(9, 8, 8);
 
   margin: 1em;
   padding: 1em;
